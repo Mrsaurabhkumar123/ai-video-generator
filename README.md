@@ -264,7 +264,5 @@ If this project helped you, please give it a ⭐️!
 
 **Made with ❤️ for Content Creators by Saurabh singhaniya**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prithwiraj84)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://youtube.com/@official_coding_concepts)
 
 </div>
