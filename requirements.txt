@@ -1,0 +1,9 @@
+Flask
+requests
+moviepy==1.0.3
+gTTS
+Pillow
+google-generativeai
+wikipedia
+gunicorn
+python-dotenv
